@@ -8,11 +8,6 @@
 
 > [Built With](#built-with)
 
-> [Visualisations](#visualisations)
-
-> [Dashboard](#dashboard)
-
-> [Credit](#credit)
 
 
 ---
@@ -38,36 +33,4 @@ COVID-19 case data can be directly downloaded or accessed through   <a href="htt
 
 ---
 
-# Visualisations
 
-Some of the visualisations are shown below
-
-![](Images/ConfirmedCases_Bar.png)
-
----
-
-![](Images/ConfirmedCases_Line.png)
-
----
-
-![](Images/DeathCases_Bar.png)
-
----
-
-![](Images/ConfirmedCases_Map.png)
-
----
-
-![](Images/DeathCases_Map.png)
-
----
-
-# Dashboard
-
-![](Images/Covid-19%20Dashboard.PNG)
-
----
-
-# Credit
-
-- Inspired by ★★★★★ Anthony B. Smoak
